@@ -24,7 +24,7 @@ Para un tutorial detallado de cómo usarlo, recomiendamos [visitar esta página]
 ## Descripción
 Analíza imágenes de ficheros con personas desparecidas del periodo llamado "la guerra sucia". Extrae texto con información clave para ayudar a su busqueda y recuperación. Es necesario conectarse con Google Cloud mediante una llave, pedir al administrador. 
 
-## Pipeline
+## Pipeline (Pitch)
  [Ver pipeline](https://www.canva.com/design/DAEn6UDCvWU/BIogSubeW8alq74c7Vp1fg/view#1).
 
 ## Cómo correr el código 
